@@ -1,0 +1,44 @@
+SKYE NOTES — 2026-07-13
+========================================
+
+TRANSCRIPT:
+to encrypt it  and then what comes out is what we call the ciphertext that's the most people would seem to be givers  then we use the key to decrypt it  and what we get back is the blankets  now for  from the beginning of ciphering which we could at least go back to the Greeks and you know three or 400 BC it may go back further than that  but that's at a minimum how far back we can go  up until  about 1975  right so for several thousand years  this key  was the same as that  okay we'll see probably on day three on Wednesday that the biggest development in recent years in cryptography was figuring out a way to make this key different from that key  and the clever mathematical development of that is what made all this internet Commerce possible  but we will get to that but for now for the historical development those keys have to be the same  okay so the sender needs the key and the receiver also needs the key in order to read  when cryptographers talk about cryptography they usually use three people's names right Allison Bob are trying to communicate  Eve is the eavesdropper trying to steal the communication or read the communication right Alex wants to talk to Bob without letting Eve know what the messages right and so sometimes this just it's just makes it easier to talk about Alice  again  and then  he reads the message  where do we use math in this well  you'll see as we go on and we get more sophisticated keys will start to use some linear algebra some abstract algebra some number Theory  in sending and receiving our messages Eve on the other hand to try to break the message is going to do prop use probabilities statistics common Turks and once computers are invented a lot of computer password  of ancient photography  but as long as humans have had the ability to share information
+
+NOTES:
+• **Encryption/Decryption Process**
+  - Plaintext is encrypted using a key → produces ciphertext
+  - Key is used to decrypt ciphertext → returns to plaintext
+
+• **Historical Context**
+  - Ciphering dates back to at least 400-300 BC (ancient Greeks), possibly earlier
+  - Until ~1975 (several thousand years), encryption and decryption keys were identical
+  
+• **Major Cryptography Development (1975)**
+  - Breakthrough: creating different keys for encryption vs. decryption
+  - This mathematical innovation enabled modern internet commerce
+  - Will be covered in more detail on "day three/Wednesday"
+
+• **Standard Cryptography Framework**
+  - Alice and Bob: communicators trying to send secure messages
+  - Eve: the eavesdropper attempting to intercept/read communications
+
+• **Mathematical Applications**
+  - **Senders/Receivers use:** linear algebra, abstract algebra, number theory
+  - **Code breakers (Eve) use:** probability, statistics, pattern analysis, computer processing power
+
+SPEECH ANALYSIS:
+**Filler words:** 13 total
+- "you know" (1), "right" (4), "okay" (2), "well" (1), "again" (1), "then" (4 - used as filler)
+
+**Fluency rating:** 4/10
+- Multiple false starts and incomplete sentences
+- Awkward phrasing ("most people would seem to be givers" - likely transcription error)
+- Frequent self-corrections and fragmented thoughts
+
+**Pacing:** Too slow
+- Excessive pauses indicated by frequent spaces between phrases
+- Repetitive explanations without clear progression
+- Long gaps disrupt flow of information
+
+**Improvement tip:** Structure your explanation beforehand with clear sections. Practice transitioning smoothly between topics (history → modern development → mathematical applications) to reduce pauses and repetition. Consider using more deliberate transitions rather than fillers like "right" and "okay."
+      
