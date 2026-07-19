@@ -18,31 +18,56 @@ a lot more about command prompt to do this on the PI. All of this was done in th
 Declartions 
 code was mostly vibe coded and done by a friend i was mostly debugging
 <img width="312" height="335" alt="image" src="https://github.com/user-attachments/assets/75bff80a-7f24-42b4-8bdd-6f2a0b89bae8" />
+<img width="522" height="336" alt="image" src="https://github.com/user-attachments/assets/2cdb4885-5b56-44b6-af02-99568a4ae0af" />
+<img width="175" height="137" alt="image" src="https://github.com/user-attachments/assets/336fe33e-f6a7-45ce-9ba5-a2b609afff0e" />
+<img width="362" height="282" alt="image" src="https://github.com/user-attachments/assets/1c762e3f-2b83-4ea5-8f4d-01a3806ceeb3" />
+
+
 
 
 BOM
 
 Rasperry pi 5 8 gb ram
+
 rasperry pi power supply 
+
 extra display and hdmi
+
 geekpi R-pi heat sync
+
 3d printed shell
+
 3.5 in tft display 
+
 micro sd card (32 gb at least) 
+
 micro key board
+
 microphone component
+
 flash drive  , depends how to do 
+
 
 
 
 Instuctions on how to build and use 
 
 flash firmware to R-pi Via rasperry pi installer and micro sd card 
+
 power the rasperry with power supply
+
 boot it using key board and hdmi screen
+
 install tft drivers 
+
+use pin headers to connect tft
+
 disconnect hdmdi screen so only visble via tft
+
 install hdmi for a google drive or hard drive
+
 install stt libaries the updated version has them set in html
+
 test! 
+
 export logs via flash drive , extra boost
