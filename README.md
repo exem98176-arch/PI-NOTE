@@ -18,3 +18,31 @@ a lot more about command prompt to do this on the PI. All of this was done in th
 Declartions 
 code was mostly vibe coded and done by a friend i was mostly debugging
 <img width="312" height="335" alt="image" src="https://github.com/user-attachments/assets/75bff80a-7f24-42b4-8bdd-6f2a0b89bae8" />
+
+
+BOM
+
+Rasperry pi 5 8 gb ram
+rasperry pi power supply 
+extra display and hdmi
+geekpi R-pi heat sync
+3d printed shell
+3.5 in tft display 
+micro sd card (32 gb at least) 
+micro key board
+microphone component
+flash drive  , depends how to do 
+
+
+
+Instuctions on how to build and use 
+
+flash firmware to R-pi Via rasperry pi installer and micro sd card 
+power the rasperry with power supply
+boot it using key board and hdmi screen
+install tft drivers 
+disconnect hdmdi screen so only visble via tft
+install hdmi for a google drive or hard drive
+install stt libaries the updated version has them set in html
+test! 
+export logs via flash drive , extra boost
