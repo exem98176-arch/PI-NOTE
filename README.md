@@ -66,4 +66,3 @@ BOM
 * Export logs via flash drive , extra boost.
 
 
-export logs via flash drive , extra boost
