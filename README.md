@@ -42,25 +42,27 @@ BOM
 
 
 
+# README: Raspberry Pi Setup Guide
 
-Instuctions on how to build and use 
+## Step 1: Flash Firmware
+* Flash firmware to R-pi Via rasperry pi installer and micro sd card.
 
-flash firmware to R-pi Via rasperry pi installer and micro sd card 
+## Step 2: Hardware Boot
+* Power the rasperry with power supply.
+* Boot it using key board and hdmi screen.
 
-power the rasperry with power supply
+## Step 3: TFT Screen Setup
+* Use pin headers to connect tft.
+* Install tft drivers.
+* Disconnect hdmdi screen so only visble via tft.
 
-boot it using key board and hdmi screen
+## Step 4: Storage & Libraries
+* Install hdmi for a google drive or hard drive.
+* Install stt libaries the updated version has them set in html.
 
-install tft drivers 
+## Step 5: Test & Export
+* Test!
+* Export logs via flash drive , extra boost.
 
-use pin headers to connect tft
-
-disconnect hdmdi screen so only visble via tft
-
-install hdmi for a google drive or hard drive
-
-install stt libaries the updated version has them set in html
-
-test! 
 
 export logs via flash drive , extra boost
