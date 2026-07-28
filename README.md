@@ -58,11 +58,32 @@ BOM
 * Disconnect hdmdi screen so only visble via tft.
 
 ## Step 4: Storage & Libraries
-* Install hdmi for a google drive or hard drive.
+* Install html for a google drive or hard drive.
 * Install stt libaries the updated version has them set in html.
 
 ## Step 5: Test & Export
 * Test!
 * Export logs via flash drive , extra boost.
+
+
+
+
+WIRING
+
+
+There is technically no wiring but this is the steps
+
+
+
+## Wiring 
+* use the sticky heatsink compontets that are big should be like sticky solid thermal paste
+* attach heat sink and screw it in using provided screws
+* plug it in
+* Power the rasperry with power supply.
+* connect big screen via hdmi (for testing)
+* Use pin headers to connect tft.
+* (will cover entire gpio)
+*add mic-module via usb port
+##JOB DONE
 
 
