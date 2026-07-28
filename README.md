@@ -17,6 +17,7 @@ pretty challenging as although a solid amount of code was vibe coded. I made sur
 a lot more about command prompt to do this on the PI. All of this was done in the allotted time window from setting up and flashing the Raspberry Pi 5 to 3D printing and cadding the shell. 
 Declartions 
 code was mostly vibe coded and done by a friend i was mostly debugging
+AI was used to help format bom
 <img width="312" height="335" alt="image" src="https://github.com/user-attachments/assets/75bff80a-7f24-42b4-8bdd-6f2a0b89bae8" />
 <img width="522" height="336" alt="image" src="https://github.com/user-attachments/assets/2cdb4885-5b56-44b6-af02-99568a4ae0af" />
 <img width="175" height="137" alt="image" src="https://github.com/user-attachments/assets/336fe33e-f6a7-45ce-9ba5-a2b609afff0e" />
