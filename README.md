@@ -38,6 +38,21 @@ code was mostly vibe coded and done by a friend i was mostly debugging
 > | micro key board | used for setup and start | [buy here]([https://example.com](https://www.amazon.com/EASYTONE-Wireless-Keyboard-Touchpad-Multimedia/dp/B01E3B81HU/ref=sr_1_10?dib=eyJ2IjoiMSJ9.KF9tqZS86E64BBzx8i8bZCzoR8Ln3oXeT9FsaPrSHK4KM8GUVgGYFGLMR2HV9hstyy8HNEL-oIhH-3I04Md6q7gI_AgMLfEy1LU928kqEagsE1h17PWI7ZhT3_sReR7J5FoGgnftTRUPgsNCuz8f9EMeIlyTyVzkmXzln6ZIoZ6QNrdtfKhAo3AyMmmtgoDP8DyQI0djoWAyi6sed_CtUUGt5gqvioNXsTM0F3h_kS0.oF_UcZKypvmhoyHotgwCVXX8HidSLVEBz1KajOETCvA&dib_tag=se&keywords=mini+keyboard&qid=1785273075&sr=8-10)) |
 > | microphone component | used to listen in| [buy here](https://www.amazon.com/Microphone-Laptop-Desktop-Plug-Play/dp/B0CNVZ27YH/ref=sr_1_2_sspa?crid=2MO364SH6HLJJ&dib=eyJ2IjoiMSJ9.FicDrRidyuqkaR-ZLxF2a1o8FKUjfw7y4TRpFg0cWHniKh1z4Awn966sBMyDoDgw6rgyLAixpepGAIA8oYdslpJ6YIx00_RgnJ6KIFIhrdaxPty4x4A1bW6zXYl6Mo3oGHxUhMvf6pQAcgOl8pjEdG6pSQn2S-XrLoYhJLHYrt2iHl6RqwsGJ0TGB5qAzLMjLxJgqt--Ji8Ay7xmbRvduQi7ojIQQeGLd3_EDWrmGigt39le7rsJtmCJqQR8GX1dtxXwaR0YfpUMw5_gYoZ_Awg7JHncViV9wSEaVqi8CSo.y8TjnQgH0ZJ1iCL53NEFl1YFsCwl6QfxvR-cJGZqmu0&dib_tag=se&keywords=microphone+usb&qid=1785273211&sprefix=microphone+usb%2Caps%2C181&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 > | flash drive| to export logs | [buy here](https://www.walmart.com/ip/SanDisk-Ultra-32GB-USB-3-0-Flash-Drive-Model-SDCZ48-032G-A46/31390846?wmlspartner=wlpa&selectedSellerId=101003231&adid=2222222222731390846_101003231_14069003552_202077872&wl0=&wl1=g&wl2=c&wl3=42423897272&wl4=pla-2449037643288&wl5=1018953&wl6=&wl7=&wl8=&wl9=pla&wl10=132805569&wl11=online&wl12=31390846_101003231&veh=sem&gad_source=1&gad_campaignid=202077872&gbraid=0AAAAADmfBIr8qx1C41iHfkiXub36i37Vs&gclid=CjwKCAjwpqHTBhAcEiwAj2Afuur-miJsRnj2p1kEThWHnYnRCv3vwDv9zN3D3jg42JE3VmJlqcmuMBoCKtoQAvD_BwE) |
+>
+> 
+| Item | Description | Link |
+| :--- | :--- | :--- |
+| **Raspberry Pi 5 (8GB RAM)** | Used as main component | [Buy Here](https://microcenter.com) |
+| **Raspberry Pi Power Supply** | Powers the rig | [Buy Here](https://digikey.com) |
+| **Extra Display** | Used for troubleshooting and driver install | [Buy Here](https://bestbuy.com) |
+| **HDMI Cable** | Used for debug | [Buy Here](https://bestbuy.com) |
+| **GeeekPi R-Pi Heat Sink** | Got to keep it cool! | [Buy Here](https://amazon.com) |
+| **3D Printed Shell** | Housing | *N/A* |
+| **Micro SD Card (32GB+)** | Flashing software | [Buy Here](https://amazon.com) |
+| **Micro Keyboard** | Used for setup and start | [Buy Here](https://amazon.com) |
+| **Microphone Component** | Used to listen in | [Buy Here](https://amazon.com) |
+| **Flash Drive** | To export logs | [Buy Here](https://walmart.com) |
+
 
 
 
