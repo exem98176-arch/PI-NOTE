@@ -580,7 +580,7 @@
     // This is what lets the app talk
     // to Claude to generate notes/feedback.
     // ================================
-    const API_KEY = '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';
+    const API_KEY = 'NICE TRY CRAWELERS HEHEHEEHEHEHEH';
 
     // ================================
     // STATE VARIABLES
@@ -713,10 +713,10 @@
         if (mediaRecorder) mediaRecorder.stop();
         if (window._skyeRecog) window._skyeRecog.stop();
 
-        // Show loading state while Claude thinks
+        // Show loading state thinks
         document.getElementById('notes-out').innerHTML = '<span class="thinking">Seb AI Thinking</span>';
 
-        // Send transcript to Claude — ask for notes AND speech analysis
+        // Send transcript 
         const reply = await askClaude(`
 You are SkyE, an AI note-taker. Given this transcript, do two things:
 
@@ -739,7 +739,7 @@ Transcript:
 "${finalTranscript}"
         `);
 
-        // Split Claude's response into notes and analysis sections
+        // Split response into notes and analysis sections
         const notesPart    = reply.split('ANALYSIS:')[0].replace('NOTES:', '').trim();
         const analysisPart = reply.split('ANALYSIS:')[1]?.trim() || 'No analysis available.';
 
@@ -751,7 +751,7 @@ Transcript:
 
     // ================================
     // SMART TO-DO — TOGGLE RECORD
-    // Same pattern as SkyE but Claude
+    // Same pattern as SkyE 
     // returns a prioritized task list
     // with XP values and categories.
     // ================================
@@ -780,7 +780,7 @@ Transcript:
         document.getElementById('todo-status').textContent = 'PROCESSING...';
         window._todoRecog.stop();
 
-        // Ask Claude to turn what was said into a task list
+        // Ask to turn what was said into a task list
         const reply = await askClaude(`
 Extract tasks from this text. Return ONLY a JSON array, no explanation, no markdown.
 Each task must have:
@@ -792,7 +792,7 @@ Each task must have:
 Text: "${todoTranscript}"
         `);
 
-        // Parse Claude's JSON response into actual task objects
+        // Parse  JSON response into actual task objects
         try {
           const clean = reply.replace(/```json|```/g, '').trim();
           const tasks = JSON.parse(clean);
