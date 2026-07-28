@@ -25,28 +25,19 @@ code was mostly vibe coded and done by a friend i was mostly debugging
 
 
 
-BOM
 
-Rasperry pi 5 8 gb ram
-
-rasperry pi power supply 
-
-extra display and hdmi
-
-geekpi R-pi heat sync
-
-3d printed shell
-
-3.5 in tft display 
-
-micro sd card (32 gb at least) 
-
-micro key board
-
-microphone component
-
-flash drive  , depends how to do 
-
+> | Item | Description | Link |
+> 
+> | Rasperry pi 5 8 gb ram| used as main component | [Link Text](https://example.com) |
+> | rasperry pi power supply| powers the rig| [Link Text](https://example.com) |
+> | extra display | used for troubleshooting and driver install| [Link Text](https://example.com) |
+> | hdmi cable     | used for debug| [Link Text](https://example.com) |
+> | geekpi R-pi heat sync| got to keep it cool! | [Link Text](https://example.com) |
+> | 3d printed shell| houseing | [Link Text](https://example.com) |
+> | micro sd card (32 gb at least)  | flashing software | [Link Text](https://example.com) |
+> | micro key board | used for setup and start | [Link Text](https://example.com) |
+> | microphone component | used to listen in| [Link Text](https://example.com) |
+> | flash drive| to export logs | [Link Text](https://example.com) |
 
 
 
