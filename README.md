@@ -26,20 +26,7 @@ code was mostly vibe coded and done by a friend i was mostly debugging
 
 
 
-> | Item | Description | Link |
-> 
-> | Rasperry pi 5 8 gb ram| used as main component | [buy here](https://www.microcenter.com/product/673711/raspberry-pi-5) |
-> | rasperry pi power supply| powers the rig| [buy here]([https://example.com](https://www.digikey.com/en/products/detail/raspberry-pi/SC1158/21658259?gclsrc=aw.ds&gad_source=1&gad_campaignid=20232005509&gbraid=0AAAAADrbLljRd_Os-dH0jB7YyVvGz4b2-&gclid=CjwKCAjwpqHTBhAcEiwAj2AfunbzSPebyN9DscLuxx_RN5tw3lFEwpv69WcDxxoDZqzBtH78WSDlIhoC11AQAvD_BwE) |
-> | extra display | used for troubleshooting and driver install| [buy here](https://www.bestbuy.com/product/best-buy-essentials-3-4k-ultra-hd-hdmi-cable-black/J2FPJKPLK2/sku/6472357?utm_source=feed) |
-> | hdmi cable     | used for debug| [buy here](https://www.bestbuy.com/product/best-buy-essentials-3-4k-ultra-hd-hdmi-cable-black/J2FPJKPLK2/sku/6472357?utm_source=feed) |
-> | geekpi R-pi heat sync| got to keep it cool! | [buy here](https://www.amazon.com/GeeekPi-Raspberry-Cooling-Aluminum-Heatsink/dp/B07PCMTZHF) |
-> | 3d printed shell| houseing | N/A |
-> | micro sd card (32 gb at least)  | flashing software | [buy here](amazon.com/Memory-Adapter-Smartphone-Personal-Computer/dp/B0GVSGLQ41/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.wVezCHxwnB7KW4rdZ06Tl5czkLxDK792Yej6E5rnXOwvFcYy4IUiCKN2hGE3Fi2TXwY-4lHT-8nDGtk4iy7aJPUhFaXtkdajtPAFvhwB3XRw7igZMJ3tiDe7GWL8NqWUj8PqRzTo4hiXlTBzAWe8w1Z-y-2hg_9OA4KbWV3aaSOukOH2nmUHV5ZLeCUZBx_7negG5CwggK3TfzK5-BQ95GiQfRWZ9YjP5DO-FFHB0Vg.eCDjX6zLjVPdj8O2NKJKavB55quOApb9LikNIxi9xMo&dib_tag=se&keywords=32gb+micro+sd+card&qid=1785273042&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) |
-> | micro key board | used for setup and start | [buy here]([https://example.com](https://www.amazon.com/EASYTONE-Wireless-Keyboard-Touchpad-Multimedia/dp/B01E3B81HU/ref=sr_1_10?dib=eyJ2IjoiMSJ9.KF9tqZS86E64BBzx8i8bZCzoR8Ln3oXeT9FsaPrSHK4KM8GUVgGYFGLMR2HV9hstyy8HNEL-oIhH-3I04Md6q7gI_AgMLfEy1LU928kqEagsE1h17PWI7ZhT3_sReR7J5FoGgnftTRUPgsNCuz8f9EMeIlyTyVzkmXzln6ZIoZ6QNrdtfKhAo3AyMmmtgoDP8DyQI0djoWAyi6sed_CtUUGt5gqvioNXsTM0F3h_kS0.oF_UcZKypvmhoyHotgwCVXX8HidSLVEBz1KajOETCvA&dib_tag=se&keywords=mini+keyboard&qid=1785273075&sr=8-10)) |
-> | microphone component | used to listen in| [buy here](https://www.amazon.com/Microphone-Laptop-Desktop-Plug-Play/dp/B0CNVZ27YH/ref=sr_1_2_sspa?crid=2MO364SH6HLJJ&dib=eyJ2IjoiMSJ9.FicDrRidyuqkaR-ZLxF2a1o8FKUjfw7y4TRpFg0cWHniKh1z4Awn966sBMyDoDgw6rgyLAixpepGAIA8oYdslpJ6YIx00_RgnJ6KIFIhrdaxPty4x4A1bW6zXYl6Mo3oGHxUhMvf6pQAcgOl8pjEdG6pSQn2S-XrLoYhJLHYrt2iHl6RqwsGJ0TGB5qAzLMjLxJgqt--Ji8Ay7xmbRvduQi7ojIQQeGLd3_EDWrmGigt39le7rsJtmCJqQR8GX1dtxXwaR0YfpUMw5_gYoZ_Awg7JHncViV9wSEaVqi8CSo.y8TjnQgH0ZJ1iCL53NEFl1YFsCwl6QfxvR-cJGZqmu0&dib_tag=se&keywords=microphone+usb&qid=1785273211&sprefix=microphone+usb%2Caps%2C181&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
-> | flash drive| to export logs | [buy here](https://www.walmart.com/ip/SanDisk-Ultra-32GB-USB-3-0-Flash-Drive-Model-SDCZ48-032G-A46/31390846?wmlspartner=wlpa&selectedSellerId=101003231&adid=2222222222731390846_101003231_14069003552_202077872&wl0=&wl1=g&wl2=c&wl3=42423897272&wl4=pla-2449037643288&wl5=1018953&wl6=&wl7=&wl8=&wl9=pla&wl10=132805569&wl11=online&wl12=31390846_101003231&veh=sem&gad_source=1&gad_campaignid=202077872&gbraid=0AAAAADmfBIr8qx1C41iHfkiXub36i37Vs&gclid=CjwKCAjwpqHTBhAcEiwAj2Afuur-miJsRnj2p1kEThWHnYnRCv3vwDv9zN3D3jg42JE3VmJlqcmuMBoCKtoQAvD_BwE) |
->
-> 
+BOM
 | Item | Description | Link |
 | :--- | :--- | :--- |
 | **Raspberry Pi 5 (8GB RAM)** | Used as main component | [Buy Here](https://microcenter.com) |
