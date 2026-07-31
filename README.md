@@ -2,6 +2,8 @@ Sebastian Sawicki
 
 Project portfolio
 
+NOTE !!!!!!!
+This was finished from a public mac as I am at camp MEANING I CANNOT INSTALL GITHUB and screenshot are very funky
 
 
 
