@@ -67,6 +67,18 @@ BOM
 * Test!
 * Export logs via flash drive , extra boost.
 
+# test guide 
+
+* follow setup guide
+
+*to test html
+
+* download html
+* replace "NICE TRY CRAWELERS HEHEHEEHEHEHEH" with your api key
+
+* run html
+* done :)
+
 
 
 
@@ -85,7 +97,14 @@ There is technically no wiring but this is the steps
 * connect big screen via hdmi (for testing)
 * Use pin headers to connect tft.
 * (will cover entire gpio)
+
+
+
+
 *add mic-module via usb port
 ##JOB DONE
+
+
+<img width="1920" height="1080" alt="wiring" src="https://github.com/user-attachments/assets/43566465-7f2a-40cd-a75d-aca2787fe8ad" />
 
 
