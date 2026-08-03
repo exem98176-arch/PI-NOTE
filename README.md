@@ -71,7 +71,7 @@ BOM
 
 * follow setup guide
 
-*to test html
+* to test html
 
 * download html
 * replace "NICE TRY CRAWELERS HEHEHEEHEHEHEH" with your api key
